@@ -1,6 +1,4 @@
-#Sasha Kanade 
 #TEJ207-3
-#Mrs. Strelkovska - Period 4
 #2025.05.31
 #Pygame Final Project
 #Final Version
