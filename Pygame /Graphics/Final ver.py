@@ -1,4 +1,4 @@
-#Sasha Kanade & Brianna Deng
+#Sasha Kanade 
 #TEJ207-3
 #Mrs. Strelkovska - Period 4
 #2025.05.31
